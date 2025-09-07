@@ -1,7 +1,13 @@
-# Create a README.md
+# This is a Python 3 program that takes a number as input, doubles it using a function, and prints the result.
 
-If you need help with `Markdown`, check out [The Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)!
+## Project Structure:
+numberDoubler.py   # Main script
+README.md          # Project documentation
 
-What should a good README.md look like? Check out these [guidelines](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes).
+## Example Run:
+Enter a number: 7
+You entered: 7.0
+Doubled value: 14.0
 
-Did you add an open source software license?
+## License
+This project is licensed under the [MIT License](LICENSE) © 2025 Alison Chatham.
